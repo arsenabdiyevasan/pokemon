@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+} 
+.card{
+    width: 200px;
+    height: 330px;
+    background-color: #ffffff;
+    margin: 10px 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+.test{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+}
+.bg{
+    width: 100%;
+    height: 100vh;
+     
+}
+.Cbody img{
+    width: 100%;
+    height: 130px;
+}
+.card{
+    text-align: center;
+}
+.cFooter{
+    display: flex;
+    text-align: left;
+    justify-content: space-around   ;
+}
+.tp{
+    color: rgb(255, 255, 255);
+    padding:0 5px;
+    border-radius: 20px;
+}
+.btn{
+    color: white;
+    background-color: red;
+    pad: 5px 10px;
+    border: none;
+    margin: 0;
+    font-size: 17px;
+    border-radius: 15px;
+}
+
+.ground{
+    background-color: rgb(156, 44, 0);
+}
+.psychic{
+    background-color: rgb(233, 94, 221);
+}
+.grass{
+    background-color: rgb(0, 255, 76);
+}
+.fairy{
+    background-color: rgb(207, 134, 250);
+}
+.fighting{
+    background-color: rgb(87, 35, 0);
+}
+.poison{
+    background-color: rgb(150, 7, 150);
+}
+.bug{
+    background-color: rgb(0, 56, 9);
+}
+.psychic{
+    background-color: rgb(233, 94, 221);
+}
+.rock{
+    background-color: rgb(102, 89, 101);
+}
+.ghost{
+    background-color: rgb(121, 9, 111);
+}
+.steel{
+    background-color: rgb(134, 221, 255);
+}
+.psychic{
+    background-color: rgb(233, 94, 221);
+}
+.psychic{
+    background-color: rgb(233, 94, 221);
+}
+.flying{
+    background-color: rgb(9, 255, 243);
+}
+.normal{
+    background-color: rgb(143, 143, 143);
+}
+.fire{
+    background-color: red;
+}
